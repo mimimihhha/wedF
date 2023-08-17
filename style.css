@@ -1,0 +1,19 @@
+header{
+background-color: rgb(244, 152, 173)
+}
+footer{
+background-color: rgb(144, 152, 222)
+}
+h1{
+  text-align: center;
+  font-size: 65px;
+  color: Black
+
+}
+p{
+  color: Black
+}
+h2{
+  color: Black;
+  font-size:80px
+}
